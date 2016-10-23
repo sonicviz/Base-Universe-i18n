@@ -15,6 +15,10 @@ A starting point for Meteor apps.
       <th>Internationalized Meteor Version</th>
       <td>Example internationalization with https://atmospherejs.com/universe/i18n</td>
     </tr>
+     <tr>
+      <th>Full tutorial walkthrough</th>
+      <td>Read the full walkthrough here: http://www.sonicviz.com/wp/2016/10/23/internationalizing-meteor/</td>
+    </tr>
   </tbody>
 </table>
 

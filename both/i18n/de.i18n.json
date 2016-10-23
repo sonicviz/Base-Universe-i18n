@@ -1,0 +1,29 @@
+{
+    "_locale": "de-DE",
+    "_namespace": "common",
+    "navbar": {
+        "userName": "Benutzername",
+        "Language": "Sprache",
+        "enUS": "Amerikanisches Englisch",
+        "jaJP": "japanisch",
+        "deDE": "Deutsche",
+        "Index": "Index",
+        "Documents": "Unterlagen",
+        "Signup": "Anmelden",
+        "Login": "Einloggen",
+        "Logout": "Ausloggen"
+    },
+    "signupform": {
+        "Signup": "Anmelden",
+        "Firstname": "Vorname",
+        "Lastname": "Familienname",
+        "Email": "E-Mail-Addresse",
+        "Password": "Passwort"
+    },
+    "loginform": {
+        "Login": "Einloggen",
+        "Email": "E-Mail-Addresse",
+        "Password": "Passwort",
+        "ForgotPassword": "Passwort vergessen?"
+    }
+}

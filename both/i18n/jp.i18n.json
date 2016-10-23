@@ -1,0 +1,29 @@
+{
+    "_locale": "ja-JP",
+    "_namespace": "common",
+    "navbar": {
+        "userName": "ユーザー名",
+        "Language": "言語",
+        "enUS": "英語 - 米",
+        "jaJP": "日本語",
+        "deDE": "ドイツ人",
+        "Index": "インデックス",
+        "Documents": "ドキュメント",
+        "Signup": "サインアップ",
+        "Login": "ログイン",
+        "Logout": "ログアウト"
+    },
+    "signupform": {
+        "Signup": "サインアップ",
+        "Firstname": "ファーストネーム",
+        "Lastname": "苗字",
+        "Email": "電子メールアドレス",
+        "Password": "パスワード"
+    },
+    "loginform": {
+        "Login": "ログイン",
+        "Email": "電子メールアドレス",
+        "Password": "パスワード",
+        "ForgotPassword": "パスワードをお忘れですか"
+    }
+}

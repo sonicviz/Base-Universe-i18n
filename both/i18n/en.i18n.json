@@ -1,0 +1,29 @@
+{
+    "_locale": "en-US",
+    "_namespace": "common",
+    "navbar": {
+        "userName": "User name",
+        "Language": "Language",
+        "enUS": "English - U.S.",
+        "jaJP": "Japanese",
+        "deDE": "German",
+        "Index": "Index",
+        "Documents": "Documents",
+        "Signup": "Sign Up",
+        "Login": "Log In",
+        "Logout": "Logout"
+    },
+    "signupform": {
+        "Signup": "Sign Up",
+        "Firstname": "First Name",
+        "Lastname": "Last Name",
+        "Email": "Email Address",
+        "Password": "Password"
+    },
+    "loginform": {
+        "Login": "Log In",
+        "Email": "Email Address",
+        "Password": "Password",
+        "ForgotPassword": "Forgot Password?"
+    }
+}
